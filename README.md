@@ -12,8 +12,8 @@ Computer Science student at WPI focused on applying machine learning to biomedic
 
 ### 🛠 Technical Skills
 
-**Languages:** Java, Python (Pandas, NumPy), C/C++, JavaScript, TypeScript, HTML, Tailwind CSS
-**Frameworks & Tools:** React, Node.js, Express.js, PostgreSQL, MongoDB, Prisma ORM, RESTful APIs, GDB
+**Languages:** Java, Python (Pandas, NumPy), C/C++, JavaScript, TypeScript, HTML, Tailwind CSS  
+**Frameworks & Tools:** React, Node.js, Express.js, PostgreSQL, MongoDB, Prisma ORM, RESTful APIs, GDB  
 **Other Tools:** Git, Docker, MATLAB, Arduino IDE, Jupyter Notebook, Adobe Premiere Pro
 
 ---

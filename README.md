@@ -22,11 +22,27 @@ Computer Science student at WPI focused on applying machine learning to biomedic
 
 | Role | Organization | Dates | Highlights |
 |------|--------------|-------|------------|
-| Software Engineer Intern | Massachusetts General Hospital | May 2026 – Present | Built a 3D computer vision pipeline (Cellpose-SAM, StarDist) and a napari-based desktop app automating cardiac cell/cilia counting in zebrafish confocal microscopy, cutting workflow time by 70%. Achieved F1 0.92 on myocardial cell counting and 98% accuracy on automated heart-tissue mask generation. |
-| Machine Learning Research Intern | Worcester Polytechnic Institute | Nov 2025 – Present | Built a validated ML pipeline over 7,412 MRI scans from 1,454 patients, fixing 3 critical flaws (incl. data leakage) in an inherited codebase. Rebuilt evaluation as 5-fold, patient-level cross-validation, cutting model variance ~90%. Reached 87% accuracy distinguishing Alzheimer's from healthy controls. |
-| Intern Leader | Massachusetts General Hospital | Jun 2024 – Aug 2024 | Analyzed MRI scans for hippocampus labeling in Alzheimer's research; led training for 14 interns, reducing labeling errors by >40%. |
-| Project Management Intern | Cambridge Police Department | Jan 2023 – Aug 2023 | Resolved ~10 IT support tickets/week between officers and IT staff; wrote setup/troubleshooting manuals for all conference rooms; led replacement of out-of-warranty equipment department-wide. |
-| Research Assistant | Massachusetts Institute of Technology | Jun 2021 – May 2022 | Applied ML to fluid dynamics with a team of 4 grad students, improving microfluidic simulation performance by 12%. Built a MATLAB ML algorithm improving fluid flow parameter accuracy by 22%, accelerating research by >3 months. |
+**Software Engineer Intern** — Massachusetts General Hospital *(May 2026 – Present)*
+- Built a 3D computer vision pipeline (Cellpose-SAM, StarDist) and a napari-based desktop app automating cardiac cell/cilia counting in zebrafish confocal microscopy, cutting workflow time by 70%
+- Achieved F1 0.92 on myocardial cell counting and 98% accuracy on automated heart-tissue mask generation
+
+**Machine Learning Research Intern** — Worcester Polytechnic Institute *(Nov 2025 – Present)*
+- Built a validated ML pipeline over 7,412 MRI scans from 1,454 patients, fixing 3 critical flaws (incl. data leakage) in an inherited codebase
+- Rebuilt evaluation as 5-fold, patient-level cross-validation, cutting model variance ~90%
+- Reached 87% accuracy distinguishing Alzheimer's from healthy controls
+
+**Intern Leader** — Massachusetts General Hospital *(Jun 2024 – Aug 2024)*
+- Analyzed MRI scans for hippocampus labeling in Alzheimer's research
+- Led training for 14 interns, reducing labeling errors by >40%
+
+**Project Management Intern** — Cambridge Police Department *(Jan 2023 – Aug 2023)*
+- Resolved ~10 IT support tickets/week between officers and IT staff
+- Wrote setup/troubleshooting manuals for all conference rooms
+- Led replacement of out-of-warranty equipment department-wide
+
+**Research Assistant** — Massachusetts Institute of Technology *(Jun 2021 – May 2022)*
+- Applied ML to fluid dynamics with a team of 4 grad students, improving microfluidic simulation performance by 12%
+- Built a MATLAB ML algorithm improving fluid flow parameter accuracy by 22%, accelerating research by >3 months
 
 ---
 
@@ -34,7 +50,6 @@ Computer Science student at WPI focused on applying machine learning to biomedic
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Iron Man Robotic Arm** | Forearm-mounted, 3D-printed gauntlet with real-time gesture control, EMG-gated safety, and a fault-tolerant state machine on Raspberry Pi | Python, C/C++, Bash |
 | **Alzheimer's MRI Classification (personal project)** | Independent project analyzing hippocampal atrophy across 300+ MRI scans; 68% accuracy with an automated pipeline enabling 60% faster analysis. Distinct from the higher-scale WPI research role above. | Python, PyTorch, NumPy |
 | **Hospital Pathfinding & Navigation Website** | Full-stack hospital navigation system with hand-tracking, voice commands, OAuth/JWT auth, and swappable pathfinding algorithms (Strategy Pattern) | PERN Stack, TypeScript, React |
 | **Multi-threaded Raytracing Renderer** | Parallelized raytracer using pthreads with barrier synchronization and double buffering, achieving a 30% speedup | C++ |

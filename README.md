@@ -56,6 +56,6 @@ Computer Science student at WPI focused on applying machine learning to biomedic
 
 ### 📫 Connect with Me
 
-- **GitHub:** [github.com/RUMBOR1](https://github.com/RumboR1)
+- **GitHub:** [github.com/RumboR1](https://github.com/RumboR1)
 - **LinkedIn:** [linkedin.com/in/mohammed-musawwir](https://www.linkedin.com/in/mohammed-musawwir/)
 - **Email:** [musawwir111@gmail.com]

@@ -47,13 +47,6 @@ Computer Science student at WPI focused on applying machine learning to biomedic
 
 ---
 
-### 📊 GitHub Stats
-
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=RumboR1&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RumboR1&layout=compact)
-
----
-
 ### 📫 Connect with Me
 
 - **GitHub:** [github.com/RumboR1](https://github.com/RumboR1)

@@ -49,13 +49,13 @@ Computer Science student at WPI focused on applying machine learning to biomedic
 
 ### 📊 GitHub Stats
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=RUMBOR1&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RUMBOR1&layout=compact)
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=RumboR1&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RumboR1&layout=compact)
 
 ---
 
 ### 📫 Connect with Me
 
-- **GitHub:** [github.com/RUMBOR1](https://github.com/RUMBOR1) *(unconfirmed — let me know if this isn't right)*
+- **GitHub:** [github.com/RUMBOR1](https://github.com/RumboR1)
 - **LinkedIn:** [linkedin.com/in/mohammed-musawwir](https://www.linkedin.com/in/mohammed-musawwir/)
 - **Email:** [musawwir111@gmail.com]

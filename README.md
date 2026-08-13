@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Musawwir 👋
 
-Computer Science student at WPI focused on applying machine learning to biomedical imaging and research tooling, with additional experience in full-stack development. I care about **clean code, rigorous validation, and continuous learning.**
+Computer Science student at WPI focused on applying machine learning to biomedical imaging and research tooling, with additional experience in full-stack development. I care about **building practical tools, statistically rigorous ML validation, and biomedical computer vision.**
 
 - 🎓 B.S. Computer Science (Minor in Electrical Engineering) @ Worcester Polytechnic Institute — Junior, Expected Jun 2027
 - 🔬 Currently: Software Engineer Intern @ Massachusetts General Hospital · ML Research Intern @ WPI
